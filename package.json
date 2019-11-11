@@ -1,8 +1,10 @@
-{ "homepage": "http://yuriydzv.github.io/git",
+{
+  "homepage": "https://github.com/yuriydzv/reactinstagram1.git",
   "name": "reactinstagram",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^2.1.1",
     "json-server": "^0.15.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",

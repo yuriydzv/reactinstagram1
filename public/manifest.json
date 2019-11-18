@@ -1,5 +1,5 @@
 {
-  "short_name": "ReactInst",
+  "short_name": "React App",
   "name": "Create React App Sample",
   "icons": [
     {
@@ -8,7 +8,7 @@
       "type": "image/x-icon"
     },
     {
-      "src": "instlogo512.png",
+      "src": "instlogo192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
